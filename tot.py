@@ -1,4 +1,4 @@
-print("Рядок від мастера")
+print("Рядок від тестувальника")
 print("Herrolonianssssss")
 
 g = 644
